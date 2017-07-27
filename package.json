@@ -1,0 +1,22 @@
+{
+  "name": "fredo33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fred147/fredo33.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fred147/fredo33/issues"
+  },
+  "homepage": "https://github.com/fred147/fredo33#readme",
+  "devDependencies": {
+    "should": "^11.2.1"
+  }
+}
